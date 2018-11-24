@@ -6,7 +6,7 @@ public class Test3{
 		
 	}
 }
-	
+//继承
 class Student extends Person{
 	private String num;
 	private String school;
